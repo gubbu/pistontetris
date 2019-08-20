@@ -1,0 +1,11 @@
+E:\SIMON\Dokumente\Programieren\rust\games\pistontetris\pistontetris\pistontetris\target\debug\deps\approx-d4ad39900dfbdb7d.rmeta: C:\Users\Zimmerle\.cargo\registry\src\github.com-1ecc6299db9ec823\approx-0.3.2\src\lib.rs C:\Users\Zimmerle\.cargo\registry\src\github.com-1ecc6299db9ec823\approx-0.3.2\src\abs_diff_eq.rs C:\Users\Zimmerle\.cargo\registry\src\github.com-1ecc6299db9ec823\approx-0.3.2\src\relative_eq.rs C:\Users\Zimmerle\.cargo\registry\src\github.com-1ecc6299db9ec823\approx-0.3.2\src\ulps_eq.rs C:\Users\Zimmerle\.cargo\registry\src\github.com-1ecc6299db9ec823\approx-0.3.2\src\macros.rs
+
+E:\SIMON\Dokumente\Programieren\rust\games\pistontetris\pistontetris\pistontetris\target\debug\deps\libapprox-d4ad39900dfbdb7d.rlib: C:\Users\Zimmerle\.cargo\registry\src\github.com-1ecc6299db9ec823\approx-0.3.2\src\lib.rs C:\Users\Zimmerle\.cargo\registry\src\github.com-1ecc6299db9ec823\approx-0.3.2\src\abs_diff_eq.rs C:\Users\Zimmerle\.cargo\registry\src\github.com-1ecc6299db9ec823\approx-0.3.2\src\relative_eq.rs C:\Users\Zimmerle\.cargo\registry\src\github.com-1ecc6299db9ec823\approx-0.3.2\src\ulps_eq.rs C:\Users\Zimmerle\.cargo\registry\src\github.com-1ecc6299db9ec823\approx-0.3.2\src\macros.rs
+
+E:\SIMON\Dokumente\Programieren\rust\games\pistontetris\pistontetris\pistontetris\target\debug\deps\approx-d4ad39900dfbdb7d.d: C:\Users\Zimmerle\.cargo\registry\src\github.com-1ecc6299db9ec823\approx-0.3.2\src\lib.rs C:\Users\Zimmerle\.cargo\registry\src\github.com-1ecc6299db9ec823\approx-0.3.2\src\abs_diff_eq.rs C:\Users\Zimmerle\.cargo\registry\src\github.com-1ecc6299db9ec823\approx-0.3.2\src\relative_eq.rs C:\Users\Zimmerle\.cargo\registry\src\github.com-1ecc6299db9ec823\approx-0.3.2\src\ulps_eq.rs C:\Users\Zimmerle\.cargo\registry\src\github.com-1ecc6299db9ec823\approx-0.3.2\src\macros.rs
+
+C:\Users\Zimmerle\.cargo\registry\src\github.com-1ecc6299db9ec823\approx-0.3.2\src\lib.rs:
+C:\Users\Zimmerle\.cargo\registry\src\github.com-1ecc6299db9ec823\approx-0.3.2\src\abs_diff_eq.rs:
+C:\Users\Zimmerle\.cargo\registry\src\github.com-1ecc6299db9ec823\approx-0.3.2\src\relative_eq.rs:
+C:\Users\Zimmerle\.cargo\registry\src\github.com-1ecc6299db9ec823\approx-0.3.2\src\ulps_eq.rs:
+C:\Users\Zimmerle\.cargo\registry\src\github.com-1ecc6299db9ec823\approx-0.3.2\src\macros.rs:
